@@ -1,1 +1,1 @@
-export const PRIMARY = "#FFFFFF";
+export const PRIMARY = "#FFFFFF"

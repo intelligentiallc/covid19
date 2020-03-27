@@ -28,10 +28,10 @@
   ],
   "rules": {
     "prettier/prettier": "warn",
-
+    "react/jsx-sort-props": 0,
     "react-hooks/rules-of-hooks": "warn",
     "react-hooks/exhaustive-deps": "warn",
-
+    "func-style":0,
     "react/forbid-prop-types": ["warn", { "forbid": ["any", "array"] }],
     "react/jsx-max-depth": ["warn", { "max": 6 }],
 
@@ -44,8 +44,7 @@
     "react/jsx-props-no-spreading": 0,
     "react/jsx-no-bind": 0,
     "react/function-component-definition": 0,
-    "func-style": ["warn", "declaration"],
-
+    "react/jsx-no-literals":0,
     "one-var": 0,
     "no-param-reassign": 0,
     "no-undefined": 0,
