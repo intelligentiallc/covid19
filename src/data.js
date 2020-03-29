@@ -1,0 +1,2590 @@
+;[
+  {
+    countryregion: "Afghanistan",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 33,
+      lng: 65,
+    },
+    countrycode: {
+      iso2: "AF",
+      iso3: "AFG",
+    },
+    confirmed: 110,
+    deaths: 4,
+    recovered: 2,
+  },
+  {
+    countryregion: "Albania",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 41.1533,
+      lng: 20.1683,
+    },
+    countrycode: {
+      iso2: "AL",
+      iso3: "ALB",
+    },
+    confirmed: 197,
+    deaths: 10,
+    recovered: 31,
+  },
+  {
+    countryregion: "Algeria",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 28.0339,
+      lng: 1.6596,
+    },
+    countrycode: {
+      iso2: "DZ",
+      iso3: "DZA",
+    },
+    confirmed: 454,
+    deaths: 29,
+    recovered: 31,
+  },
+  {
+    countryregion: "Andorra",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 42.5063,
+      lng: 1.5218,
+    },
+    countrycode: {
+      iso2: "AD",
+      iso3: "AND",
+    },
+    confirmed: 308,
+    deaths: 3,
+    recovered: 1,
+  },
+  {
+    countryregion: "Angola",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -11.2027,
+      lng: 17.8739,
+    },
+    countrycode: {
+      iso2: "AO",
+      iso3: "AGO",
+    },
+    confirmed: 5,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Antigua and Barbuda",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 17.0608,
+      lng: -61.7964,
+    },
+    countrycode: {
+      iso2: "AG",
+      iso3: "ATG",
+    },
+    confirmed: 7,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Argentina",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -38.4161,
+      lng: -63.6167,
+    },
+    countrycode: {
+      iso2: "AR",
+      iso3: "ARG",
+    },
+    confirmed: 690,
+    deaths: 18,
+    recovered: 72,
+  },
+  {
+    countryregion: "Armenia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 40.0691,
+      lng: 45.0382,
+    },
+    countrycode: {
+      iso2: "AM",
+      iso3: "ARM",
+    },
+    confirmed: 407,
+    deaths: 1,
+    recovered: 30,
+  },
+  {
+    countryregion: "Australia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -30.8996,
+      lng: 135.3,
+    },
+    countrycode: {
+      iso2: "AU",
+      iso3: "AUS",
+    },
+    confirmed: 3640,
+    deaths: 14,
+    recovered: 244,
+  },
+  {
+    countryregion: "Austria",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 47.5162,
+      lng: 14.5501,
+    },
+    countrycode: {
+      iso2: "AT",
+      iso3: "AUT",
+    },
+    confirmed: 8271,
+    deaths: 68,
+    recovered: 225,
+  },
+  {
+    countryregion: "Azerbaijan",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 40.1431,
+      lng: 47.5769,
+    },
+    countrycode: {
+      iso2: "AZ",
+      iso3: "AZE",
+    },
+    confirmed: 182,
+    deaths: 4,
+    recovered: 15,
+  },
+  {
+    countryregion: "Bahamas",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 25.0343,
+      lng: -77.3963,
+    },
+    confirmed: 10,
+    deaths: 0,
+    recovered: 1,
+  },
+  {
+    countryregion: "Bahrain",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 26.0275,
+      lng: 50.55,
+    },
+    countrycode: {
+      iso2: "BH",
+      iso3: "BHR",
+    },
+    confirmed: 476,
+    deaths: 4,
+    recovered: 265,
+  },
+  {
+    countryregion: "Bangladesh",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 23.685,
+      lng: 90.3563,
+    },
+    countrycode: {
+      iso2: "BD",
+      iso3: "BGD",
+    },
+    confirmed: 48,
+    deaths: 5,
+    recovered: 15,
+  },
+  {
+    countryregion: "Barbados",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 13.1939,
+      lng: -59.5432,
+    },
+    countrycode: {
+      iso2: "BB",
+      iso3: "BRB",
+    },
+    confirmed: 26,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Belarus",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 53.7098,
+      lng: 27.9534,
+    },
+    countrycode: {
+      iso2: "BY",
+      iso3: "BLR",
+    },
+    confirmed: 94,
+    deaths: 0,
+    recovered: 32,
+  },
+  {
+    countryregion: "Belgium",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 50.8333,
+      lng: 4,
+    },
+    countrycode: {
+      iso2: "BE",
+      iso3: "BEL",
+    },
+    confirmed: 9134,
+    deaths: 353,
+    recovered: 1063,
+  },
+  {
+    countryregion: "Benin",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 9.3077,
+      lng: 2.3158,
+    },
+    countrycode: {
+      iso2: "BJ",
+      iso3: "BEN",
+    },
+    confirmed: 6,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Bhutan",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 27.5142,
+      lng: 90.4336,
+    },
+    countrycode: {
+      iso2: "BT",
+      iso3: "BTN",
+    },
+    confirmed: 3,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Bolivia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -16.2902,
+      lng: -63.5887,
+    },
+    countrycode: {
+      iso2: "BO",
+      iso3: "BOL",
+    },
+    confirmed: 74,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Bosnia and Herzegovina",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 43.9159,
+      lng: 17.6791,
+    },
+    countrycode: {
+      iso2: "BA",
+      iso3: "BIH",
+    },
+    confirmed: 258,
+    deaths: 5,
+    recovered: 5,
+  },
+  {
+    countryregion: "Brazil",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -14.235,
+      lng: -51.9253,
+    },
+    countrycode: {
+      iso2: "BR",
+      iso3: "BRA",
+    },
+    confirmed: 3904,
+    deaths: 111,
+    recovered: 6,
+  },
+  {
+    countryregion: "Brunei",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 4.5353,
+      lng: 114.7277,
+    },
+    countrycode: {
+      iso2: "BN",
+      iso3: "BRN",
+    },
+    confirmed: 120,
+    deaths: 1,
+    recovered: 25,
+  },
+  {
+    countryregion: "Bulgaria",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 42.7339,
+      lng: 25.4858,
+    },
+    countrycode: {
+      iso2: "BG",
+      iso3: "BGR",
+    },
+    confirmed: 331,
+    deaths: 7,
+    recovered: 11,
+  },
+  {
+    countryregion: "Burkina Faso",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 12.2383,
+      lng: -1.5616,
+    },
+    countrycode: {
+      iso2: "BF",
+      iso3: "BFA",
+    },
+    confirmed: 207,
+    deaths: 11,
+    recovered: 21,
+  },
+  {
+    countryregion: "Cabo Verde",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 16.5388,
+      lng: -23.0418,
+    },
+    confirmed: 5,
+    deaths: 1,
+    recovered: 0,
+  },
+  {
+    countryregion: "Cambodia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 11.55,
+      lng: 104.9167,
+    },
+    countrycode: {
+      iso2: "KH",
+      iso3: "KHM",
+    },
+    confirmed: 99,
+    deaths: 0,
+    recovered: 13,
+  },
+  {
+    countryregion: "Cameroon",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 3.8480000000000003,
+      lng: 11.5021,
+    },
+    countrycode: {
+      iso2: "CM",
+      iso3: "CMR",
+    },
+    confirmed: 91,
+    deaths: 2,
+    recovered: 2,
+  },
+  {
+    countryregion: "Canada",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 61.1333,
+      lng: -100.8833,
+    },
+    countrycode: {
+      iso2: "CA",
+      iso3: "CAN",
+    },
+    confirmed: 5576,
+    deaths: 61,
+    recovered: 1063,
+  },
+  {
+    countryregion: "Central African Republic",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 6.6111,
+      lng: 20.9394,
+    },
+    countrycode: {
+      iso2: "CF",
+      iso3: "CAF",
+    },
+    confirmed: 3,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Chad",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 15.4542,
+      lng: 18.7322,
+    },
+    countrycode: {
+      iso2: "TD",
+      iso3: "TCD",
+    },
+    confirmed: 3,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Chile",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -35.6751,
+      lng: -71.543,
+    },
+    countrycode: {
+      iso2: "CL",
+      iso3: "CHL",
+    },
+    confirmed: 1909,
+    deaths: 6,
+    recovered: 61,
+  },
+  {
+    countryregion: "China",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 29.5333,
+      lng: 94.4167,
+    },
+    countrycode: {
+      iso2: "CN",
+      iso3: "CHN",
+    },
+    confirmed: 81999,
+    deaths: 3299,
+    recovered: 75100,
+  },
+  {
+    countryregion: "Colombia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 4.5709,
+      lng: -74.2973,
+    },
+    countrycode: {
+      iso2: "CO",
+      iso3: "COL",
+    },
+    confirmed: 608,
+    deaths: 6,
+    recovered: 10,
+  },
+  {
+    countryregion: "Congo (Brazzaville)",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -4.0383,
+      lng: 21.7587,
+    },
+    confirmed: 4,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Congo (Kinshasa)",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -4.0383,
+      lng: 21.7587,
+    },
+    confirmed: 65,
+    deaths: 6,
+    recovered: 2,
+  },
+  {
+    countryregion: "Costa Rica",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 9.7489,
+      lng: -83.7534,
+    },
+    countrycode: {
+      iso2: "CR",
+      iso3: "CRI",
+    },
+    confirmed: 295,
+    deaths: 2,
+    recovered: 3,
+  },
+  {
+    countryregion: "Cote d'Ivoire",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 7.54,
+      lng: -5.5471,
+    },
+    countrycode: {
+      iso2: "CI",
+      iso3: "CIV",
+    },
+    confirmed: 101,
+    deaths: 0,
+    recovered: 3,
+  },
+  {
+    countryregion: "Croatia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 45.1,
+      lng: 15.2,
+    },
+    countrycode: {
+      iso2: "HR",
+      iso3: "HRV",
+    },
+    confirmed: 657,
+    deaths: 5,
+    recovered: 45,
+  },
+  {
+    countryregion: "Cuba",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 22,
+      lng: -80,
+    },
+    countrycode: {
+      iso2: "CU",
+      iso3: "CUB",
+    },
+    confirmed: 119,
+    deaths: 3,
+    recovered: 4,
+  },
+  {
+    countryregion: "Cyprus",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 35.1264,
+      lng: 33.4299,
+    },
+    countrycode: {
+      iso2: "CY",
+      iso3: "CYP",
+    },
+    confirmed: 179,
+    deaths: 5,
+    recovered: 15,
+  },
+  {
+    countryregion: "Czechia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 49.8175,
+      lng: 15.472999999999999,
+    },
+    confirmed: 2631,
+    deaths: 11,
+    recovered: 11,
+  },
+  {
+    countryregion: "Denmark",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 57.4337,
+      lng: 10.5333,
+    },
+    countrycode: {
+      iso2: "DK",
+      iso3: "DNK",
+    },
+    confirmed: 2366,
+    deaths: 65,
+    recovered: 57,
+  },
+  {
+    countryregion: "Djibouti",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 11.8251,
+      lng: 42.5903,
+    },
+    countrycode: {
+      iso2: "DJ",
+      iso3: "DJI",
+    },
+    confirmed: 14,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Dominican Republic",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 18.7357,
+      lng: -70.1627,
+    },
+    countrycode: {
+      iso2: "DO",
+      iso3: "DOM",
+    },
+    confirmed: 719,
+    deaths: 28,
+    recovered: 3,
+  },
+  {
+    countryregion: "Ecuador",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -1.8312,
+      lng: -78.1834,
+    },
+    countrycode: {
+      iso2: "EC",
+      iso3: "ECU",
+    },
+    confirmed: 1823,
+    deaths: 48,
+    recovered: 3,
+  },
+  {
+    countryregion: "Egypt",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 26,
+      lng: 30,
+    },
+    countrycode: {
+      iso2: "EG",
+      iso3: "EGY",
+    },
+    confirmed: 576,
+    deaths: 36,
+    recovered: 121,
+  },
+  {
+    countryregion: "El Salvador",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 13.7942,
+      lng: -88.8965,
+    },
+    countrycode: {
+      iso2: "SV",
+      iso3: "SLV",
+    },
+    confirmed: 19,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Equatorial Guinea",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 1.5,
+      lng: 10,
+    },
+    countrycode: {
+      iso2: "GQ",
+      iso3: "GNQ",
+    },
+    confirmed: 12,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Eritrea",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 15.1794,
+      lng: 39.7823,
+    },
+    countrycode: {
+      iso2: "ER",
+      iso3: "ERI",
+    },
+    confirmed: 6,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Estonia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 58.5953,
+      lng: 25.0136,
+    },
+    countrycode: {
+      iso2: "EE",
+      iso3: "EST",
+    },
+    confirmed: 645,
+    deaths: 1,
+    recovered: 20,
+  },
+  {
+    countryregion: "Eswatini",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -26.5225,
+      lng: 31.4659,
+    },
+    confirmed: 9,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Ethiopia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 9.145,
+      lng: 40.4897,
+    },
+    countrycode: {
+      iso2: "ET",
+      iso3: "ETH",
+    },
+    confirmed: 16,
+    deaths: 0,
+    recovered: 1,
+  },
+  {
+    countryregion: "Fiji",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -17.7134,
+      lng: 178.065,
+    },
+    countrycode: {
+      iso2: "FJ",
+      iso3: "FJI",
+    },
+    confirmed: 5,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Finland",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 64,
+      lng: 26,
+    },
+    countrycode: {
+      iso2: "FI",
+      iso3: "FIN",
+    },
+    confirmed: 1167,
+    deaths: 9,
+    recovered: 10,
+  },
+  {
+    countryregion: "France",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 47.8004,
+      lng: 3.5666,
+    },
+    countrycode: {
+      iso2: "FR",
+      iso3: "FRA",
+    },
+    confirmed: 38105,
+    deaths: 2317,
+    recovered: 5724,
+  },
+  {
+    countryregion: "Gabon",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -0.8037,
+      lng: 11.6094,
+    },
+    countrycode: {
+      iso2: "GA",
+      iso3: "GAB",
+    },
+    confirmed: 7,
+    deaths: 1,
+    recovered: 0,
+  },
+  {
+    countryregion: "Gambia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 13.4432,
+      lng: -15.3101,
+    },
+    confirmed: 3,
+    deaths: 1,
+    recovered: 0,
+  },
+  {
+    countryregion: "Georgia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 42.3154,
+      lng: 43.3569,
+    },
+    countrycode: {
+      iso2: "GE",
+      iso3: "GEO",
+    },
+    confirmed: 90,
+    deaths: 0,
+    recovered: 14,
+  },
+  {
+    countryregion: "Germany",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 51,
+      lng: 9,
+    },
+    countrycode: {
+      iso2: "DE",
+      iso3: "DEU",
+    },
+    confirmed: 57695,
+    deaths: 433,
+    recovered: 8481,
+  },
+  {
+    countryregion: "Ghana",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 7.9465,
+      lng: -1.0232,
+    },
+    countrycode: {
+      iso2: "GH",
+      iso3: "GHA",
+    },
+    confirmed: 141,
+    deaths: 5,
+    recovered: 2,
+  },
+  {
+    countryregion: "Greece",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 39.0742,
+      lng: 21.8243,
+    },
+    countrycode: {
+      iso2: "GR",
+      iso3: "GRC",
+    },
+    confirmed: 1061,
+    deaths: 32,
+    recovered: 52,
+  },
+  {
+    countryregion: "Guatemala",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 15.7835,
+      lng: -90.2308,
+    },
+    countrycode: {
+      iso2: "GT",
+      iso3: "GTM",
+    },
+    confirmed: 34,
+    deaths: 1,
+    recovered: 10,
+  },
+  {
+    countryregion: "Guinea",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 9.9456,
+      lng: -9.6966,
+    },
+    countrycode: {
+      iso2: "GN",
+      iso3: "GIN",
+    },
+    confirmed: 8,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Guyana",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 5,
+      lng: -58.75,
+    },
+    countrycode: {
+      iso2: "GY",
+      iso3: "GUY",
+    },
+    confirmed: 8,
+    deaths: 1,
+    recovered: 0,
+  },
+  {
+    countryregion: "Haiti",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 18.9712,
+      lng: -72.2852,
+    },
+    countrycode: {
+      iso2: "HT",
+      iso3: "HTI",
+    },
+    confirmed: 8,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Holy See",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 41.9029,
+      lng: 12.4534,
+    },
+    confirmed: 6,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Honduras",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 15.2,
+      lng: -86.2419,
+    },
+    countrycode: {
+      iso2: "HN",
+      iso3: "HND",
+    },
+    confirmed: 95,
+    deaths: 1,
+    recovered: 3,
+  },
+  {
+    countryregion: "Hungary",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 47.1625,
+      lng: 19.5033,
+    },
+    countrycode: {
+      iso2: "HU",
+      iso3: "HUN",
+    },
+    confirmed: 343,
+    deaths: 11,
+    recovered: 34,
+  },
+  {
+    countryregion: "Iceland",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 64.9631,
+      lng: -19.0208,
+    },
+    countrycode: {
+      iso2: "IS",
+      iso3: "ISL",
+    },
+    confirmed: 963,
+    deaths: 2,
+    recovered: 114,
+  },
+  {
+    countryregion: "India",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 21,
+      lng: 78,
+    },
+    countrycode: {
+      iso2: "IN",
+      iso3: "IND",
+    },
+    confirmed: 987,
+    deaths: 24,
+    recovered: 84,
+  },
+  {
+    countryregion: "Indonesia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -0.7893,
+      lng: 113.9213,
+    },
+    countrycode: {
+      iso2: "ID",
+      iso3: "IDN",
+    },
+    confirmed: 1155,
+    deaths: 102,
+    recovered: 59,
+  },
+  {
+    countryregion: "Iran",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 32,
+      lng: 53,
+    },
+    countrycode: {
+      iso2: "IR",
+      iso3: "IRN",
+    },
+    confirmed: 35408,
+    deaths: 2517,
+    recovered: 11679,
+  },
+  {
+    countryregion: "Iraq",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 33,
+      lng: 44,
+    },
+    countrycode: {
+      iso2: "IQ",
+      iso3: "IRQ",
+    },
+    confirmed: 506,
+    deaths: 42,
+    recovered: 131,
+  },
+  {
+    countryregion: "Ireland",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 53.1424,
+      lng: -7.6921,
+    },
+    countrycode: {
+      iso2: "IE",
+      iso3: "IRL",
+    },
+    confirmed: 2415,
+    deaths: 36,
+    recovered: 5,
+  },
+  {
+    countryregion: "Israel",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 31,
+      lng: 35,
+    },
+    countrycode: {
+      iso2: "IL",
+      iso3: "ISR",
+    },
+    confirmed: 3619,
+    deaths: 12,
+    recovered: 89,
+  },
+  {
+    countryregion: "Italy",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 43,
+      lng: 12,
+    },
+    countrycode: {
+      iso2: "IT",
+      iso3: "ITA",
+    },
+    confirmed: 92472,
+    deaths: 10023,
+    recovered: 12384,
+  },
+  {
+    countryregion: "Jamaica",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 18.1096,
+      lng: -77.2975,
+    },
+    countrycode: {
+      iso2: "JM",
+      iso3: "JAM",
+    },
+    confirmed: 30,
+    deaths: 1,
+    recovered: 2,
+  },
+  {
+    countryregion: "Japan",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 36,
+      lng: 138,
+    },
+    countrycode: {
+      iso2: "JP",
+      iso3: "JPN",
+    },
+    confirmed: 1693,
+    deaths: 52,
+    recovered: 404,
+  },
+  {
+    countryregion: "Jordan",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 31.24,
+      lng: 36.51,
+    },
+    countrycode: {
+      iso2: "JO",
+      iso3: "JOR",
+    },
+    confirmed: 246,
+    deaths: 1,
+    recovered: 18,
+  },
+  {
+    countryregion: "Kazakhstan",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 48.0196,
+      lng: 66.9237,
+    },
+    countrycode: {
+      iso2: "KZ",
+      iso3: "KAZ",
+    },
+    confirmed: 228,
+    deaths: 1,
+    recovered: 16,
+  },
+  {
+    countryregion: "Kenya",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -0.0236,
+      lng: 37.9062,
+    },
+    countrycode: {
+      iso2: "KE",
+      iso3: "KEN",
+    },
+    confirmed: 38,
+    deaths: 1,
+    recovered: 1,
+  },
+  {
+    countryregion: "Korea, South",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 36,
+      lng: 128,
+    },
+    countrycode: {
+      iso2: "KR",
+      iso3: "KOR",
+    },
+    confirmed: 9478,
+    deaths: 144,
+    recovered: 4811,
+  },
+  {
+    countryregion: "Kuwait",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 29.5,
+      lng: 47.75,
+    },
+    countrycode: {
+      iso2: "KW",
+      iso3: "KWT",
+    },
+    confirmed: 235,
+    deaths: 0,
+    recovered: 64,
+  },
+  {
+    countryregion: "Kyrgyzstan",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 41.2044,
+      lng: 74.7661,
+    },
+    countrycode: {
+      iso2: "KG",
+      iso3: "KGZ",
+    },
+    confirmed: 58,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Latvia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 56.8796,
+      lng: 24.6032,
+    },
+    countrycode: {
+      iso2: "LV",
+      iso3: "LVA",
+    },
+    confirmed: 305,
+    deaths: 0,
+    recovered: 1,
+  },
+  {
+    countryregion: "Lebanon",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 33.8547,
+      lng: 35.8623,
+    },
+    countrycode: {
+      iso2: "LB",
+      iso3: "LBN",
+    },
+    confirmed: 412,
+    deaths: 8,
+    recovered: 30,
+  },
+  {
+    countryregion: "Liberia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 6.4281,
+      lng: -9.4295,
+    },
+    countrycode: {
+      iso2: "LR",
+      iso3: "LBR",
+    },
+    confirmed: 3,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Liechtenstein",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 47.14,
+      lng: 9.55,
+    },
+    countrycode: {
+      iso2: "LI",
+      iso3: "LIE",
+    },
+    confirmed: 56,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Lithuania",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 55.1694,
+      lng: 23.8813,
+    },
+    countrycode: {
+      iso2: "LT",
+      iso3: "LTU",
+    },
+    confirmed: 394,
+    deaths: 7,
+    recovered: 1,
+  },
+  {
+    countryregion: "Luxembourg",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 49.8153,
+      lng: 6.1296,
+    },
+    countrycode: {
+      iso2: "LU",
+      iso3: "LUX",
+    },
+    confirmed: 1831,
+    deaths: 18,
+    recovered: 40,
+  },
+  {
+    countryregion: "Madagascar",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -18.7669,
+      lng: 46.8691,
+    },
+    countrycode: {
+      iso2: "MG",
+      iso3: "MDG",
+    },
+    confirmed: 26,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Malaysia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 2.5,
+      lng: 112.5,
+    },
+    countrycode: {
+      iso2: "MY",
+      iso3: "MYS",
+    },
+    confirmed: 2320,
+    deaths: 27,
+    recovered: 320,
+  },
+  {
+    countryregion: "Maldives",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 3.2028,
+      lng: 73.2207,
+    },
+    countrycode: {
+      iso2: "MV",
+      iso3: "MDV",
+    },
+    confirmed: 16,
+    deaths: 0,
+    recovered: 9,
+  },
+  {
+    countryregion: "Malta",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 35.9375,
+      lng: 14.3754,
+    },
+    countrycode: {
+      iso2: "MT",
+      iso3: "MLT",
+    },
+    confirmed: 149,
+    deaths: 0,
+    recovered: 2,
+  },
+  {
+    countryregion: "Mauritania",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 21.0079,
+      lng: 10.9408,
+    },
+    countrycode: {
+      iso2: "MR",
+      iso3: "MRT",
+    },
+    confirmed: 5,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Mauritius",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -20.2,
+      lng: 57.5,
+    },
+    countrycode: {
+      iso2: "MU",
+      iso3: "MUS",
+    },
+    confirmed: 102,
+    deaths: 2,
+    recovered: 0,
+  },
+  {
+    countryregion: "Mexico",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 23.6345,
+      lng: -102.5528,
+    },
+    countrycode: {
+      iso2: "MX",
+      iso3: "MEX",
+    },
+    confirmed: 717,
+    deaths: 12,
+    recovered: 4,
+  },
+  {
+    countryregion: "Moldova",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 47.4116,
+      lng: 28.3699,
+    },
+    countrycode: {
+      iso2: "MD",
+      iso3: "MDA",
+    },
+    confirmed: 231,
+    deaths: 2,
+    recovered: 2,
+  },
+  {
+    countryregion: "Monaco",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 43.7333,
+      lng: 7.4167,
+    },
+    countrycode: {
+      iso2: "MC",
+      iso3: "MCO",
+    },
+    confirmed: 42,
+    deaths: 0,
+    recovered: 1,
+  },
+  {
+    countryregion: "Mongolia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 46.8625,
+      lng: 103.8467,
+    },
+    countrycode: {
+      iso2: "MN",
+      iso3: "MNG",
+    },
+    confirmed: 12,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Montenegro",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 42.5,
+      lng: 19.3,
+    },
+    countrycode: {
+      iso2: "ME",
+      iso3: "MNE",
+    },
+    confirmed: 84,
+    deaths: 1,
+    recovered: 0,
+  },
+  {
+    countryregion: "Morocco",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 31.7917,
+      lng: -7.0926,
+    },
+    countrycode: {
+      iso2: "MA",
+      iso3: "MAR",
+    },
+    confirmed: 402,
+    deaths: 25,
+    recovered: 11,
+  },
+  {
+    countryregion: "Namibia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -22.9576,
+      lng: 18.4904,
+    },
+    countrycode: {
+      iso2: "NA",
+      iso3: "NAM",
+    },
+    confirmed: 8,
+    deaths: 0,
+    recovered: 2,
+  },
+  {
+    countryregion: "Nepal",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 28.1667,
+      lng: 84.25,
+    },
+    countrycode: {
+      iso2: "NP",
+      iso3: "NPL",
+    },
+    confirmed: 5,
+    deaths: 0,
+    recovered: 1,
+  },
+  {
+    countryregion: "Netherlands",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 52.5176,
+      lng: 5.474,
+    },
+    countrycode: {
+      iso2: "NL",
+      iso3: "NLD",
+    },
+    confirmed: 9819,
+    deaths: 640,
+    recovered: 6,
+  },
+  {
+    countryregion: "New Zealand",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -40.9006,
+      lng: 174.886,
+    },
+    countrycode: {
+      iso2: "NZ",
+      iso3: "NZL",
+    },
+    confirmed: 451,
+    deaths: 0,
+    recovered: 50,
+  },
+  {
+    countryregion: "Nicaragua",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 12.8654,
+      lng: -85.2072,
+    },
+    countrycode: {
+      iso2: "NI",
+      iso3: "NIC",
+    },
+    confirmed: 4,
+    deaths: 1,
+    recovered: 0,
+  },
+  {
+    countryregion: "Niger",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 17.6078,
+      lng: 8.0817,
+    },
+    countrycode: {
+      iso2: "NE",
+      iso3: "NER",
+    },
+    confirmed: 10,
+    deaths: 1,
+    recovered: 0,
+  },
+  {
+    countryregion: "Nigeria",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 9.082,
+      lng: 8.6753,
+    },
+    countrycode: {
+      iso2: "NG",
+      iso3: "NGA",
+    },
+    confirmed: 89,
+    deaths: 1,
+    recovered: 3,
+  },
+  {
+    countryregion: "North Macedonia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 41.6086,
+      lng: 21.7453,
+    },
+    countrycode: {
+      iso2: "MK",
+      iso3: "MKD",
+    },
+    confirmed: 241,
+    deaths: 4,
+    recovered: 3,
+  },
+  {
+    countryregion: "Norway",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 60.472,
+      lng: 8.4689,
+    },
+    countrycode: {
+      iso2: "NO",
+      iso3: "NOR",
+    },
+    confirmed: 4015,
+    deaths: 23,
+    recovered: 7,
+  },
+  {
+    countryregion: "Oman",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 21,
+      lng: 57,
+    },
+    countrycode: {
+      iso2: "OM",
+      iso3: "OMN",
+    },
+    confirmed: 152,
+    deaths: 0,
+    recovered: 23,
+  },
+  {
+    countryregion: "Pakistan",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 30.3753,
+      lng: 69.3451,
+    },
+    countrycode: {
+      iso2: "PK",
+      iso3: "PAK",
+    },
+    confirmed: 1495,
+    deaths: 12,
+    recovered: 29,
+  },
+  {
+    countryregion: "Panama",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 8.538,
+      lng: -80.7821,
+    },
+    countrycode: {
+      iso2: "PA",
+      iso3: "PAN",
+    },
+    confirmed: 786,
+    deaths: 14,
+    recovered: 2,
+  },
+  {
+    countryregion: "Papua New Guinea",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -6.315,
+      lng: 143.9555,
+    },
+    countrycode: {
+      iso2: "PG",
+      iso3: "PNG",
+    },
+    confirmed: 1,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Paraguay",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -23.4425,
+      lng: -58.4438,
+    },
+    countrycode: {
+      iso2: "PY",
+      iso3: "PRY",
+    },
+    confirmed: 56,
+    deaths: 3,
+    recovered: 1,
+  },
+  {
+    countryregion: "Peru",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -9.19,
+      lng: -75.0152,
+    },
+    countrycode: {
+      iso2: "PE",
+      iso3: "PER",
+    },
+    confirmed: 671,
+    deaths: 16,
+    recovered: 16,
+  },
+  {
+    countryregion: "Philippines",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 13,
+      lng: 122,
+    },
+    countrycode: {
+      iso2: "PH",
+      iso3: "PHL",
+    },
+    confirmed: 1075,
+    deaths: 68,
+    recovered: 35,
+  },
+  {
+    countryregion: "Poland",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 51.9194,
+      lng: 19.1451,
+    },
+    countrycode: {
+      iso2: "PL",
+      iso3: "POL",
+    },
+    confirmed: 1638,
+    deaths: 18,
+    recovered: 7,
+  },
+  {
+    countryregion: "Portugal",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 39.3999,
+      lng: -8.2245,
+    },
+    countrycode: {
+      iso2: "PT",
+      iso3: "PRT",
+    },
+    confirmed: 5170,
+    deaths: 100,
+    recovered: 43,
+  },
+  {
+    countryregion: "Qatar",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 25.3548,
+      lng: 51.1839,
+    },
+    countrycode: {
+      iso2: "QA",
+      iso3: "QAT",
+    },
+    confirmed: 590,
+    deaths: 1,
+    recovered: 45,
+  },
+  {
+    countryregion: "Romania",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 45.9432,
+      lng: 24.9668,
+    },
+    countrycode: {
+      iso2: "RO",
+      iso3: "ROU",
+    },
+    confirmed: 1452,
+    deaths: 37,
+    recovered: 139,
+  },
+  {
+    countryregion: "Russia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 60,
+      lng: 90,
+    },
+    countrycode: {
+      iso2: "RU",
+      iso3: "RUS",
+    },
+    confirmed: 1264,
+    deaths: 4,
+    recovered: 49,
+  },
+  {
+    countryregion: "Rwanda",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -1.9403,
+      lng: 29.8739,
+    },
+    countrycode: {
+      iso2: "RW",
+      iso3: "RWA",
+    },
+    confirmed: 60,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Saint Lucia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 13.9094,
+      lng: -60.9789,
+    },
+    countrycode: {
+      iso2: "LC",
+      iso3: "LCA",
+    },
+    confirmed: 3,
+    deaths: 0,
+    recovered: 1,
+  },
+  {
+    countryregion: "Saint Vincent and the Grenadines",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 12.9843,
+      lng: -61.2872,
+    },
+    countrycode: {
+      iso2: "VC",
+      iso3: "VCT",
+    },
+    confirmed: 1,
+    deaths: 0,
+    recovered: 1,
+  },
+  {
+    countryregion: "San Marino",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 43.9424,
+      lng: 12.4578,
+    },
+    countrycode: {
+      iso2: "SM",
+      iso3: "SMR",
+    },
+    confirmed: 224,
+    deaths: 22,
+    recovered: 6,
+  },
+  {
+    countryregion: "Saudi Arabia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 24,
+      lng: 45,
+    },
+    countrycode: {
+      iso2: "SA",
+      iso3: "SAU",
+    },
+    confirmed: 1203,
+    deaths: 4,
+    recovered: 37,
+  },
+  {
+    countryregion: "Senegal",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 14.4974,
+      lng: -14.4524,
+    },
+    countrycode: {
+      iso2: "SN",
+      iso3: "SEN",
+    },
+    confirmed: 130,
+    deaths: 0,
+    recovered: 18,
+  },
+  {
+    countryregion: "Serbia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 44.0165,
+      lng: 21.0059,
+    },
+    countrycode: {
+      iso2: "RS",
+      iso3: "SRB",
+    },
+    confirmed: 659,
+    deaths: 10,
+    recovered: 0,
+  },
+  {
+    countryregion: "Seychelles",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -4.6796,
+      lng: 55.492,
+    },
+    countrycode: {
+      iso2: "SC",
+      iso3: "SYC",
+    },
+    confirmed: 8,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Singapore",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 1.2833,
+      lng: 103.8333,
+    },
+    countrycode: {
+      iso2: "SG",
+      iso3: "SGP",
+    },
+    confirmed: 802,
+    deaths: 2,
+    recovered: 198,
+  },
+  {
+    countryregion: "Slovakia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 48.669,
+      lng: 19.699,
+    },
+    countrycode: {
+      iso2: "SK",
+      iso3: "SVK",
+    },
+    confirmed: 292,
+    deaths: 0,
+    recovered: 2,
+  },
+  {
+    countryregion: "Slovenia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 46.1512,
+      lng: 14.9955,
+    },
+    countrycode: {
+      iso2: "SI",
+      iso3: "SVN",
+    },
+    confirmed: 684,
+    deaths: 9,
+    recovered: 10,
+  },
+  {
+    countryregion: "Somalia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 5.1521,
+      lng: 46.1996,
+    },
+    countrycode: {
+      iso2: "SO",
+      iso3: "SOM",
+    },
+    confirmed: 3,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "South Africa",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -30.5595,
+      lng: 22.9375,
+    },
+    countrycode: {
+      iso2: "ZA",
+      iso3: "ZAF",
+    },
+    confirmed: 1187,
+    deaths: 1,
+    recovered: 31,
+  },
+  {
+    countryregion: "Spain",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 40,
+      lng: -4,
+    },
+    countrycode: {
+      iso2: "ES",
+      iso3: "ESP",
+    },
+    confirmed: 73235,
+    deaths: 5982,
+    recovered: 12285,
+  },
+  {
+    countryregion: "Sri Lanka",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 7,
+      lng: 81,
+    },
+    countrycode: {
+      iso2: "LK",
+      iso3: "LKA",
+    },
+    confirmed: 113,
+    deaths: 1,
+    recovered: 9,
+  },
+  {
+    countryregion: "Sudan",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 12.8628,
+      lng: 30.2176,
+    },
+    countrycode: {
+      iso2: "SD",
+      iso3: "SDN",
+    },
+    confirmed: 5,
+    deaths: 1,
+    recovered: 0,
+  },
+  {
+    countryregion: "Suriname",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 3.9193,
+      lng: -56.0278,
+    },
+    countrycode: {
+      iso2: "SR",
+      iso3: "SUR",
+    },
+    confirmed: 8,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Sweden",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 63,
+      lng: 16,
+    },
+    countrycode: {
+      iso2: "SE",
+      iso3: "SWE",
+    },
+    confirmed: 3447,
+    deaths: 105,
+    recovered: 16,
+  },
+  {
+    countryregion: "Switzerland",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 46.8182,
+      lng: 8.2275,
+    },
+    countrycode: {
+      iso2: "CH",
+      iso3: "CHE",
+    },
+    confirmed: 14076,
+    deaths: 264,
+    recovered: 1530,
+  },
+  {
+    countryregion: "Taiwan*",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 23.7,
+      lng: 121,
+    },
+    confirmed: 283,
+    deaths: 2,
+    recovered: 30,
+  },
+  {
+    countryregion: "Tanzania",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -6.369,
+      lng: 34.8888,
+    },
+    countrycode: {
+      iso2: "TZ",
+      iso3: "TZA",
+    },
+    confirmed: 14,
+    deaths: 0,
+    recovered: 1,
+  },
+  {
+    countryregion: "Thailand",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 15,
+      lng: 101,
+    },
+    countrycode: {
+      iso2: "TH",
+      iso3: "THA",
+    },
+    confirmed: 1245,
+    deaths: 6,
+    recovered: 97,
+  },
+  {
+    countryregion: "Togo",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 8.6195,
+      lng: 0.8248,
+    },
+    countrycode: {
+      iso2: "TG",
+      iso3: "TGO",
+    },
+    confirmed: 25,
+    deaths: 1,
+    recovered: 1,
+  },
+  {
+    countryregion: "Trinidad and Tobago",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 10.6918,
+      lng: -61.2225,
+    },
+    countrycode: {
+      iso2: "TT",
+      iso3: "TTO",
+    },
+    confirmed: 74,
+    deaths: 3,
+    recovered: 1,
+  },
+  {
+    countryregion: "Tunisia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 34,
+      lng: 9,
+    },
+    countrycode: {
+      iso2: "TN",
+      iso3: "TUN",
+    },
+    confirmed: 278,
+    deaths: 8,
+    recovered: 2,
+  },
+  {
+    countryregion: "Turkey",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 38.9637,
+      lng: 35.2433,
+    },
+    countrycode: {
+      iso2: "TR",
+      iso3: "TUR",
+    },
+    confirmed: 7402,
+    deaths: 108,
+    recovered: 70,
+  },
+  {
+    countryregion: "Uganda",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 1,
+      lng: 32,
+    },
+    countrycode: {
+      iso2: "UG",
+      iso3: "UGA",
+    },
+    confirmed: 30,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Ukraine",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 48.3794,
+      lng: 31.1656,
+    },
+    countrycode: {
+      iso2: "UA",
+      iso3: "UKR",
+    },
+    confirmed: 356,
+    deaths: 9,
+    recovered: 5,
+  },
+  {
+    countryregion: "United Arab Emirates",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 24,
+      lng: 54,
+    },
+    countrycode: {
+      iso2: "AE",
+      iso3: "ARE",
+    },
+    confirmed: 468,
+    deaths: 2,
+    recovered: 52,
+  },
+  {
+    countryregion: "United Kingdom",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 58.4333,
+      lng: -3.0834,
+    },
+    countrycode: {
+      iso2: "GB",
+      iso3: "GBR",
+    },
+    confirmed: 17312,
+    deaths: 1021,
+    recovered: 151,
+  },
+  {
+    countryregion: "Uruguay",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -32.5228,
+      lng: -55.7658,
+    },
+    countrycode: {
+      iso2: "UY",
+      iso3: "URY",
+    },
+    confirmed: 274,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "US",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 37.0902,
+      lng: -95.7129,
+    },
+    countrycode: {
+      iso2: "US",
+      iso3: "USA",
+    },
+    confirmed: 121478,
+    deaths: 2026,
+    recovered: 1072,
+  },
+  {
+    countryregion: "Uzbekistan",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 41.3775,
+      lng: 64.5853,
+    },
+    countrycode: {
+      iso2: "UZ",
+      iso3: "UZB",
+    },
+    confirmed: 104,
+    deaths: 2,
+    recovered: 5,
+  },
+  {
+    countryregion: "Venezuela",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 6.4238,
+      lng: -66.5897,
+    },
+    countrycode: {
+      iso2: "VE",
+      iso3: "VEN",
+    },
+    confirmed: 119,
+    deaths: 2,
+    recovered: 39,
+  },
+  {
+    countryregion: "Vietnam",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 16,
+      lng: 108,
+    },
+    countrycode: {
+      iso2: "VN",
+      iso3: "VNM",
+    },
+    confirmed: 174,
+    deaths: 0,
+    recovered: 21,
+  },
+  {
+    countryregion: "Zambia",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -15.4167,
+      lng: 28.2833,
+    },
+    countrycode: {
+      iso2: "ZM",
+      iso3: "ZMB",
+    },
+    confirmed: 28,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Zimbabwe",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -20,
+      lng: 30,
+    },
+    countrycode: {
+      iso2: "ZW",
+      iso3: "ZWE",
+    },
+    confirmed: 7,
+    deaths: 1,
+    recovered: 0,
+  },
+  {
+    countryregion: "Dominica",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 15.415,
+      lng: -61.371,
+    },
+    countrycode: {
+      iso2: "DM",
+      iso3: "DMA",
+    },
+    confirmed: 11,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Grenada",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 12.1165,
+      lng: -61.678999999999995,
+    },
+    countrycode: {
+      iso2: "GD",
+      iso3: "GRD",
+    },
+    confirmed: 7,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Mozambique",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -18.665695,
+      lng: 35.529562,
+    },
+    countrycode: {
+      iso2: "MZ",
+      iso3: "MOZ",
+    },
+    confirmed: 8,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Syria",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 34.802075,
+      lng: 38.99681500000001,
+    },
+    countrycode: {
+      iso2: "SY",
+      iso3: "SYR",
+    },
+    confirmed: 5,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Timor-Leste",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: -8.874217,
+      lng: 125.727539,
+    },
+    countrycode: {
+      iso2: "TL",
+      iso3: "TLS",
+    },
+    confirmed: 1,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Belize",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 13.1939,
+      lng: -59.5432,
+    },
+    countrycode: {
+      iso2: "BZ",
+      iso3: "BLZ",
+    },
+    confirmed: 2,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Laos",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 19.856270000000002,
+      lng: 102.495496,
+    },
+    countrycode: {
+      iso2: "LA",
+      iso3: "LAO",
+    },
+    confirmed: 8,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Libya",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 26.3351,
+      lng: 17.228331,
+    },
+    countrycode: {
+      iso2: "LY",
+      iso3: "LBY",
+    },
+    confirmed: 3,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "West Bank and Gaza",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 31.9522,
+      lng: 35.2332,
+    },
+    confirmed: 98,
+    deaths: 1,
+    recovered: 18,
+  },
+  {
+    countryregion: "Guinea-Bissau",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 11.8037,
+      lng: -15.1804,
+    },
+    countrycode: {
+      iso2: "GW",
+      iso3: "GNB",
+    },
+    confirmed: 2,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Mali",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 17.570692,
+      lng: -3.996166000000001,
+    },
+    countrycode: {
+      iso2: "ML",
+      iso3: "MLI",
+    },
+    confirmed: 18,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Saint Kitts and Nevis",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 17.357822,
+      lng: -62.782998,
+    },
+    countrycode: {
+      iso2: "KN",
+      iso3: "KNA",
+    },
+    confirmed: 2,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "Kosovo",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 42.602636,
+      lng: 20.902977,
+    },
+    confirmed: 91,
+    deaths: 1,
+    recovered: 1,
+  },
+  {
+    countryregion: "Burma",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 21.9162,
+      lng: 95.956,
+    },
+    confirmed: 8,
+    deaths: 0,
+    recovered: 0,
+  },
+  {
+    countryregion: "MS Zaandam",
+    lastupdate: "2020-03-29T00:42:00.003Z",
+    location: {
+      lat: 0,
+      lng: 0,
+    },
+    confirmed: 2,
+    deaths: 0,
+    recovered: 0,
+  },
+]

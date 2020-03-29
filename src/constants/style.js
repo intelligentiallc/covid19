@@ -1,1 +1,7 @@
 export const PRIMARY = "#FFFFFF"
+export const RECAVERED = "green"
+export const DEATHS = "#C13C37"
+export const CONFIRMED = "#E38627"
+export const GRAY = "gray"
+export const BLUE = "blue"
+export const BABYBLUE = "#4fb2f7"

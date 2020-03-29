@@ -27,23 +27,36 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-create-client-paths',
+      resolve: "gatsby-plugin-create-client-paths",
       options: {
-        prefixes: [
-          '/contacts/*',
-        ],
+        prefixes: ["/contacts/*"],
       },
     },
     {
-      resolve: 'gatsby-plugin-eslint',
+      resolve: "gatsby-plugin-eslint",
       options: {
         test: /\.js$|\.jsx$/,
         exclude: /(node_modules|.cache|public)/,
-        stages: ['develop'],
+        stages: ["develop"],
         options: {
           emitWarning: true,
           failOnError: false,
         },
+      },
+    },
+    {
+      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      options: {
+        fonts: [
+          {
+            family: `Roboto Mono`,
+            variants: [`400`, `700`],
+          },
+          {
+            family: `Roboto`,
+            subsets: [`latin`],
+          },
+        ],
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

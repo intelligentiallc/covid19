@@ -8,7 +8,7 @@ import {
   useScrollTrigger,
 } from "@material-ui/core"
 import { Menu as MenuIcon } from "@material-ui/icons"
-import { APP_TITLE } from "../constants/variables"
+import { APP_TITLE } from "../../constants/variables"
 import PropTypes from "prop-types"
 
 const useStyles = makeStyles(theme => ({
