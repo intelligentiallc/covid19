@@ -5,6 +5,7 @@ module.exports = {
     author: `@gatsbyjs`,
   },
   plugins: [
+    { pathPrefix: "/covid19" },
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
