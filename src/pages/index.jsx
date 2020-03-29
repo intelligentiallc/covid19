@@ -40,7 +40,7 @@ const IndexPage = () => {
           </div>
         </CenterDiv>
         <Card width={30}>
-          <span>card</span>
+          <span>should be all total cases</span>
         </Card>
       </CenterDiv>
       <Table data={all} onChangeCountry={onChangeCountry} />
