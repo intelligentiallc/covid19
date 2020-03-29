@@ -6,9 +6,9 @@ export const columns = [
     name: "Country",
     selector: "countryregion",
     sortable: true,
-    cell: row => {
-      return <span style={{ fontWeight: "bold" }}>{row.countryregion}</span>
-    },
+    cell: row => (
+      <span style={{ fontWeight: "bold" }}>{row.countryregion}</span>
+    ),
     style: {
       fontFamily: "Roboto",
       color: BABYBLUE,
